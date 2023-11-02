@@ -68,3 +68,7 @@ h1,h2 {
 div,h4,li,p {
   font-family: 'News Cycle', sans-serif;
 }
+
+ul {
+  list-style-type: none;
+}
